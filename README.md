@@ -1,2 +1,2 @@
 # Background-Generator
-Sample Dynamic Background generator web page built with basic HTML, CSS and JS. 
+Simple Dynamic Background generator web page built with basic HTML, CSS and JavaScript. 
