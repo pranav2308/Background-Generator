@@ -1,0 +1,1 @@
+Some text from test 1 folder.
