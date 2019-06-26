@@ -1,1 +1,1 @@
-Some text from test 1 folder.
+Some initial text here.
